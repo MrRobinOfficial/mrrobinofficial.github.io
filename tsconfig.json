@@ -16,7 +16,7 @@
             "#components/*": [
                 "./src/components/*"
             ],
-        }
+        },
     },
     "include": [
         "src/**/*.ts",
