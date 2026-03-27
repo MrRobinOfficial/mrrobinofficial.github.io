@@ -13,7 +13,7 @@ export default defineConfig({
     },
     plugins: [tailwindcss()],
   },
-  base: "/mrrobinofficial.github.io/",
+  base: "/",
   srcDir: "./src",
   srcExclude: ["**/README.md", "**/TODO.md"],
   lang: "en-US",
