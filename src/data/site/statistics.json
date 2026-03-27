@@ -1,0 +1,48 @@
+{
+  "experiences": [
+    {
+      "label": "Years of Experience",
+      "value": "5+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "20+"
+    },
+    {
+      "label": "Technologies Used",
+      "value": "15+"
+    }
+  ],
+  "programmingLanguages": [
+    "Bash",
+    "C",
+    "C#",
+    "C++",
+    "JavaScript",
+    "PHP",
+    "Python",
+    "Rust",
+    "SQL",
+    "TypeScript"
+  ],
+  "gameDevelopment": ["Blender", "Godot", "Maya", "Unigine", "Unity", "Unreal Engine"],
+  "frontendDevelopment": [
+    "Angular.js",
+    "Next.js",
+    "React & Native",
+    "SASS",
+    "TailwindCSS",
+    "Vue.js"
+  ],
+  "backendDevelopment": ["Express.js", "Node.js"],
+  "databases": ["Djano", "MariaDB", "MongoDB", "MySQL", "SQLLite"],
+  "tools": ["Bitbucket", "Github", "Git"],
+  "programs": [
+    "Figma",
+    "Fruity Loops Studio",
+    "Postman",
+    "Rider",
+    "Visual Studio Code",
+    "Visual Studio"
+  ]
+}

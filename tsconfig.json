@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "strict": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "paths": {
+            "#data/*": [
+                "./src/data/*"
+            ],
+            "#utils/*": [
+                "./src/utils/*"
+            ],
+            "#components/*": [
+                "./src/components/*"
+            ],
+        }
+    },
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.vue",
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}

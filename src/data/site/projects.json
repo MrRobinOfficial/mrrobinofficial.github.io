@@ -1,0 +1,30 @@
+[
+  {
+    "emoji": "🎵",
+    "title": "Music",
+    "description": "Original music & tracks",
+    "gradient": "linear-gradient(135deg, rgba(255, 154, 158, 0.5), rgba(250, 208, 196, 0.5))",
+    "link": "/projects/music"
+  },
+  {
+    "emoji": "🛒",
+    "title": "Commercial",
+    "description": "Commercial products",
+    "gradient": "linear-gradient(135deg, rgba(251, 194, 235, 0.5), rgba(166, 193, 238, 0.5))",
+    "link": "/projects/commercial"
+  },
+  {
+    "emoji": "🌱",
+    "title": "Non-commercial",
+    "description": "Hobby & open source",
+    "gradient": "linear-gradient(135deg, rgba(198, 255, 221, 0.5), rgba(251, 215, 134, 0.5))",
+    "link": "/projects/non-commercial"
+  },
+  {
+    "emoji": "🎮",
+    "title": "Games",
+    "description": "Fun games & prototypes",
+    "gradient": "linear-gradient(135deg, rgba(137, 247, 254, 0.5), rgba(102, 166, 255, 0.5))",
+    "link": "/projects/games"
+  }
+]

@@ -1,0 +1,6 @@
+export { default as AboutPage } from "./AboutPage.vue"
+export { default as BlogPage } from "./BlogPage.vue"
+export { default as HomePage } from "./HomePage.vue"
+export { default as MusicPage } from "./MusicPage.vue"
+export { default as ProjectsPage } from "./ProjectsPage.vue"
+export { default as WorkInProgressPage } from "./WorkInProgressPage.vue"

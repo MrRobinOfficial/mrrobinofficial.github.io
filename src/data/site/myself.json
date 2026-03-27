@@ -1,0 +1,37 @@
+{
+  "firstName": "Robin",
+  "lastName": "Johannesson",
+  "fullName": "Robin Johannesson",
+  "birthDate": "2001-08-22",
+  "profession": "Software Engineer",
+  "taglines": [
+    "Crafting elegant solutions",
+    "Building performant systems",
+    "Architecting scalable software",
+    "One love, one heart ☮️",
+    "Engineering the future",
+    "Spell it right in the README ✍️",
+    "Optimizing every cycle",
+    "Code clean, code readable",
+    "Solutions that others can follow",
+    "Learn deeply, create wisely 💛",
+    "Finding a way in code and creativity",
+    "Share knowledge, grow together",
+    "Helping others succeed",
+    "Lagom: just enough effort, just in time",
+    "Community lifts us all",
+    "Build a legacy, inspire others ❤️‍🔥",
+    "Resilience fuels growth",
+    "Learn more, share more",
+    "Respect nature, embrace balance",
+    "Strength to build, wisdom to create",
+    "Small queues, big patience",
+    "The real journey is within 🦁"
+  ],
+  "socials": {
+    "github": {
+      "username": "mrrobinofficial",
+      "link": "https://www.github.com/mrrobinofficial"
+    }
+  }
+}
