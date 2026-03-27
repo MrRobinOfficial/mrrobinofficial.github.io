@@ -68,14 +68,6 @@ const openContact = () => {
           }"
         >
           <div class="flex">
-            <AsciiAnimation
-              :fps="30"
-              :frameCount="49"
-              :color-overlay="true"
-              gradient="radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(0,0,255,1) 100%)"
-              :frameFolder="'ascii/ring/frames'"
-            />
-
             <div class="flex-1">
               <h1 class="name-gradient">
                 {{ myself.firstName }}
